@@ -1,0 +1,6 @@
+C:\Git\Project\Source\Test\Test\bin\Debug\Test.exe.config
+C:\Git\Project\Source\Test\Test\bin\Debug\Test.exe
+C:\Git\Project\Source\Test\Test\bin\Debug\Test.pdb
+C:\Git\Project\Source\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Git\Project\Source\Test\Test\obj\Debug\Test.exe
+C:\Git\Project\Source\Test\Test\obj\Debug\Test.pdb
