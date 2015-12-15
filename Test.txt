@@ -1,9 +1,1 @@
-Nguyen Thanh Tri
-Thiện chó đẻ
-
-Nguyen Thanh Trí
-Thiện chó
-
-From Master
-
-This is from NB
+Hello World, I Create It from newbranch!
