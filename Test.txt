@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-﻿Nguyen Thanh Tri
-Thiện chó đẻ
-=======
-Nguyen Thanh Trí
-Thiện chó
->>>>>>> 44ba96c9c62b4e690455ebbe659e616ff32fbefe
+Hello World, I Create It from newbranch!

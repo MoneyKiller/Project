@@ -4,3 +4,9 @@ C:\Git\Project\Source\Test\Test\bin\Debug\Test.pdb
 C:\Git\Project\Source\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
 C:\Git\Project\Source\Test\Test\obj\Debug\Test.exe
 C:\Git\Project\Source\Test\Test\obj\Debug\Test.pdb
+F:\Git\Project\Source\Test\Test\bin\Debug\Test.exe.config
+F:\Git\Project\Source\Test\Test\obj\Debug\Test.exe
+F:\Git\Project\Source\Test\Test\obj\Debug\Test.pdb
+F:\Git\Project\Source\Test\Test\bin\Debug\Test.exe
+F:\Git\Project\Source\Test\Test\bin\Debug\Test.pdb
+F:\Git\Project\Source\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
