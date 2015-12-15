@@ -23,5 +23,10 @@ namespace Test
         {
             return a * b;
         }
+
+        static public string something(string a)
+        {
+            return a;
+        }
     }
 }

@@ -10,7 +10,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Calc.Sub(5,2));
+            Console.WriteLine(Calc.something("Hello World"));
         }
     }
 }
